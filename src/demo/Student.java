@@ -1,8 +1,9 @@
 package demo;
-
+ 
 public	class Student {
 		// 定义成员变量
 		String strName;       //学生姓名
+		String abc;
 		String strNo;         
 		int iAge;
 		double dScore;
